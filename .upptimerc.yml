@@ -3,10 +3,10 @@ owner: wojcsado
 repo: simincident-status
 
 sites:
-  - name: SimIncident
+  - name: SimIncident Platform
     url: https://simincident.com
-  - name: SimIncident Docs
-    url: https://docs.simincident.com
+  - name: Simulation Engine API
+    url: https://api.simincident.com/health
 
 status-website:
   cname: status.simincident.com
