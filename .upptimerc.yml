@@ -5,7 +5,7 @@ repo: simincident-status
 sites:
   - name: SimIncident Platform
     url: https://simincident.com
-  - name: Simulation Engine API
+  - name: Simulation Engine
     url: https://api.simincident.com/health
 
 status-website:
