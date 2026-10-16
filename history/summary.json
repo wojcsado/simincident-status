@@ -4,10 +4,10 @@
     "url": "https://simincident.com",
     "icon": "https://icons.duckduckgo.com/ip3/simincident.com.ico",
     "slug": "sim-incident-platform",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.87%",
+    "uptimeWeek": "99.98%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 202,
@@ -15,16 +15,18 @@
     "timeWeek": 182,
     "timeMonth": 255,
     "timeYear": 202,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2026-10-16": 2
+    }
   },
   {
     "name": "Simulation Engine",
     "url": "https://api.simincident.com/health",
     "icon": "https://icons.duckduckgo.com/ip3/api.simincident.com.ico",
     "slug": "simulation-engine",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -33,6 +35,8 @@
     "timeWeek": 3264,
     "timeMonth": 3310,
     "timeYear": 3373,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2026-10-16": 0
+    }
   }
 ]
